@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Future of Fintech",
+            "category": [
+                "FINANCE",
+                "TECH"
+            ],
+            "description": "Exploring how AI and blockchain are reshaping financial services",
+            "date": "2026-01-11T09:12:45.120Z",
+            "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+            "content": "Fintech is rapidly evolving with AI, blockchain, and automation..."
+        }
+    ]
+}
